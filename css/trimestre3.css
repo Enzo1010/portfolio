@@ -1,0 +1,94 @@
+
+
+h1 {
+    text-align: center;
+    font-family: Comic Sans;
+    color: white;
+}
+
+#aluno:hover {
+    background-color: lightgray;
+    align-items: center;
+}
+
+
+
+.titulo {
+    background-image: linear-gradient(to right, #246fdf, #009cdd, #e2e3e0);
+    color: white;
+    font-size: 36px;
+    font-style: inherit;
+    font-weight: 500;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 0 15px #010019;
+    border-radius: 26px;
+
+}
+
+
+p {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+h3 {
+    color: whitesmoke;
+    background-color: blue;
+    font-size: 19px;
+    padding: 5px;
+    border-radius: 25px;
+margin: 8px;
+box-shadow: 0 0 15px #9999ff
+}
+
+h2:hover {
+    background-color: #9999ff;
+    color: white;
+}
+
+.img {
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+
+.img:hover {
+    height: 400px;
+    width: 400px;
+    border-radius: 37px;
+}
+
+#box {
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(42,9,121,1) 41%, rgba(0,212,255,1) 100%);
+    border-radius: 100px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 0 20px #010019;
+}
+
+body{
+    background: fixed;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://img.freepik.com/fotos-gratis/fundo-preto-antigo-textura-do-grunge-papel-de-parede-escuro-quadro-negro-quadro-negro-parede-da-sala_1258-28312.jpg?w=1480&t=st=1669225720~exp=1669226320~hmac=fd9b35cb8f118029381ed6f31b3b868d347cc77069e9fe99f6f3189bdab22dc4);
+}
+
+table{
+    background-color: #b3b3ff;
+}
+
+.botao{
+    border-radius: 50px;
+    border-width: 0px;
+    background-color: #1a1aff;
+    padding: 4px;
+    color: white;
+    box-shadow: 0 0 11px white;
+}
